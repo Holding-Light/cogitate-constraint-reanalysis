@@ -1,1 +1,6 @@
 __pycache__/
+*.pyc
+output/
+figures/
+.DS_Store
+*.egg-info/
